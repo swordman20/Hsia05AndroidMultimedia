@@ -1,0 +1,1 @@
+include ':app', ':AndroidMultimedia01加载大图片', ':Androidmultimedia02对图片的4中动画操作', ':AndroidMultimedia03画画板', ':AndroidMultimedia04音频播放', ':AndroidMultimedia05视频播放', ':AndroidMultimedia06万能视频播放', ':vitamio', ':vitamio-sample', ':Androidmultimedia07拍照和摄像'

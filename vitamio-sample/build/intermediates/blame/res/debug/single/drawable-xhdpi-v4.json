@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_pressed_holo.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_pause.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/mediacontroller_pause.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_sreen_size_crop.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/res/drawable-xhdpi/mediacontroller_sreen_size_crop.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_play.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/mediacontroller_play.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_normal_holo.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_sreen_size_100.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/res/drawable-xhdpi/mediacontroller_sreen_size_100.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_primary_holo.9.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_secondary_holo.9.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_screen_fit.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/res/drawable-xhdpi/mediacontroller_screen_fit.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_focused_holo.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mediacontroller_screen_size.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/res/drawable-xhdpi/mediacontroller_screen_size.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_control_disabled_holo.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scrubber_track_holo_dark.9.png",
+        "source": "/Users/xwf/Documents/Developer/Workspace/AndroidStu/Hsia05AndroidMultimedia/vitamio-sample/build/intermediates/exploded-aar/Hsia05AndroidMultimedia/vitamio/unspecified/res/drawable-xhdpi-v4/scrubber_track_holo_dark.9.png"
+    }
+]

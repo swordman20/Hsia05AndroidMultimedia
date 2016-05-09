@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidMultimedia01加载大图片/AndroidMultimedia01加载大图片.iml" filepath="$PROJECT_DIR$/AndroidMultimedia01加载大图片/AndroidMultimedia01加载大图片.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMultimedia03画画板/AndroidMultimedia03画画板.iml" filepath="$PROJECT_DIR$/AndroidMultimedia03画画板/AndroidMultimedia03画画板.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMultimedia04音频播放/AndroidMultimedia04音频播放.iml" filepath="$PROJECT_DIR$/AndroidMultimedia04音频播放/AndroidMultimedia04音频播放.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMultimedia05视频播放/AndroidMultimedia05视频播放.iml" filepath="$PROJECT_DIR$/AndroidMultimedia05视频播放/AndroidMultimedia05视频播放.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMultimedia06万能视频播放/AndroidMultimedia06万能视频播放.iml" filepath="$PROJECT_DIR$/AndroidMultimedia06万能视频播放/AndroidMultimedia06万能视频播放.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Androidmultimedia02对图片的4中动画操作/androidmultimedia02对图片的4中动画操作.iml" filepath="$PROJECT_DIR$/Androidmultimedia02对图片的4中动画操作/androidmultimedia02对图片的4中动画操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Androidmultimedia07拍照和摄像/Androidmultimedia07拍照和摄像.iml" filepath="$PROJECT_DIR$/Androidmultimedia07拍照和摄像/Androidmultimedia07拍照和摄像.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hsia05AndroidMultimedia.iml" filepath="$PROJECT_DIR$/Hsia05AndroidMultimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" filepath="$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" />
+    </modules>
+  </component>
+</project>
